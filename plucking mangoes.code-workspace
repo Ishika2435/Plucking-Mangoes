@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\Plucking+mangoes"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Plucking Mangoes"
+	}
+}
